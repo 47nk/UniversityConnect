@@ -1,0 +1,10 @@
+.my-app {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.my-app .content {
+    flex: 1;
+}
